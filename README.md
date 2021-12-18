@@ -15,6 +15,15 @@
 
 - **Admins**: Admins can see all users and their learning progress, and can also delete or disable any user account. They can also reset a User leassons progress or move him to the next level. 
 
+## Design Wireframe
+
+![newest_wireframe-2-2](https://user-images.githubusercontent.com/92247858/146650325-925ba4c6-cbf2-4734-bdb5-4a8232880db7.jpg)
+![newest_wireframe-1](https://user-images.githubusercontent.com/92247858/146650332-8ff5df4e-6675-461f-a5ab-e47f4fb12815.jpg)
+![newest_wireframe-2](https://user-images.githubusercontent.com/92247858/146650336-4a958068-b93f-41bb-8478-886abc2d5ad9.jpg)
+![Inkednewest_wireframe-3-2](https://user-images.githubusercontent.com/92247858/146650343-365a92ff-e977-4bae-ae66-6ca450de6564.jpg)
+![newest_wireframe-3](https://user-images.githubusercontent.com/92247858/146650344-f58a7d2e-25fd-49e9-9189-9500fe051e6f.jpg)
+
+
 ## BackEnd ER Diagram
 
 ![Back ERD drawio](https://user-images.githubusercontent.com/92247858/146246278-37e03d69-94bc-4fa1-9d36-92c65152a8f9.png)
